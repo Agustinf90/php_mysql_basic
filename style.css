@@ -1,0 +1,20 @@
+
+.navbar{
+    background-color : blue
+};
+
+body{
+    background-color : lightblue;
+}
+.card{
+    background-color : white
+};
+td{
+    color : black
+};
+th{
+    color : "black"
+};
+a{
+    color : white 
+};
